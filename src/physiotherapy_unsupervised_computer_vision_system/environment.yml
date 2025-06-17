@@ -1,0 +1,13 @@
+name: physiotherapy_unsupervised_computer_vision_system
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - ipykernel
+    - pandas
+    - pyarrow
+    - opencv-python
+    - mediapipe
+    - scikit-learn

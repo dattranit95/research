@@ -1,0 +1,11 @@
+### System ###
+.DS_Store
+
+### Python ###
+__pycache__
+
+### Datasets ###
+**/datasets/**
+
+### Out files ###
+**/out/**
